@@ -1,3 +1,9 @@
+/* Обычный */
+@font-face {
+	font-family: 'Moma Regulas'; 
+	src: url(../fonts/MoMASansWebBoldRegular.ttf); 
+}
+
 body{
-    background-color: #000;
+    font-family: 'Moma Regulas';
 }
